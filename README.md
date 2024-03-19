@@ -18,7 +18,7 @@ The user interface (UI) of this project is characterized by a vibrant combinatio
 
 For more details and code samples, please refer to the project's repository.
 
-###ScreenShot
+### ScreenShot
 
 <img src="https://github.com/Aayushi0x9/Graphics_task_02/assets/143987694/a0f74b29-f6a1-41e1-9245-f65a955748ec" width="250" height="550">
 
